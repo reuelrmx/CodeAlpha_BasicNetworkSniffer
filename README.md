@@ -8,9 +8,11 @@ This Python script allows you to sniff packets on a network interface of your ch
 => Provides color-coded output for easy visualization of different packet components.
 
 # Requirements
-=> Python
-=> `scapy` library
-=> `netifaces` library
+`Python`
+
+`scapy library`
+
+`netifaces library`
 
 # Installation
 1. Install Python from [Python's official website](https://www.python.org/downloads/).
