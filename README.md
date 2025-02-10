@@ -1,4 +1,4 @@
-# CodeAlpha_BasicNetworkSniffer
+# BasicNetworkSniffer
 
 This Python script allows you to sniff packets on a network interface of your choice. It utilizes the `scapy` library for packet manipulation and analysis.
 
